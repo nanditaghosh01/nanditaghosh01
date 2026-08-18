@@ -33,6 +33,13 @@ Hi! I'm **Nandita Ghosh**, a Computer Science & Engineering student passionate a
 * ⚡ Building hardware-based projects using microcontrollers
 * 🚀 Always learning, experimenting and creating
 
+
+## 🎓 Education
+
+- 🎓 **Qualification:** B.Tech in Computer Science & Engineering
+- 🏫 **University:** Adamas University
+- 📍 **Location:** West Bengal, India
+- 
 > **"Learn. Build. Improve. Repeat."**
 
 ---
