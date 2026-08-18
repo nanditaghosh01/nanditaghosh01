@@ -89,7 +89,6 @@ Hi! I'm **Nandita Ghosh**, a Computer Science & Engineering student passionate a
 
 
 
-
 # 🚀 Featured Projects
 
 <div align="center">
@@ -213,21 +212,26 @@ More software, hardware, and experimental projects are currently being developed
 ⚡ Hardware Projects
 🎮 Creative & Experimental Projects
 ```
-## 🚀 GitHub Contributions
+# 📈 GitHub Contributions
 
 <div align="center">
 
-✨ **Building. Learning. Contributing. Growing.** ✨
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nanditaghosh01&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
-| 💻 Projects | 🔧 Development | 📚 Learning | 🌟 Contributions |
-|:---:|:---:|:---:|:---:|
-| Web & Software Projects | C / C++ / Python | New Technologies | Open-Source & Personal Work |
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nanditaghosh01&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
 
 <br>
 
-**🔥 Consistent Coding** • **🛠️ Project Building** • **💡 Problem Solving** • **🚀 Continuous Learning**
+<div align="center">
+
+**✨ Every contribution is a step forward.**
 
 </div>
+
 
 # 🎯 Current Goals
 
