@@ -38,15 +38,13 @@ Hi! I'm **Nandita Ghosh**, a Computer Science & Engineering student passionate a
 
 - 🎓 **Qualification:** B.Tech in Computer Science & Engineering
 - 🏫 **University:** Adamas University
-- 📍 **Location:** West Bengal, India
-- 
-> **"Learn. Build. Improve. Repeat."**
+- 📍 **Location:** Barasat, West Bengal, India
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 👨‍💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
@@ -58,19 +56,37 @@ Hi! I'm **Nandita Ghosh**, a Computer Science & Engineering student passionate a
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🗄️ Database & Tools
+### 🗄️ Database & Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
 </p>
 
-### 🤖 Hardware & Embedded
+### 🤖 AI • Robotics • Embedded Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino" />
+<img src="https://skillicons.dev/icons?i=python,arduino" />
 </p>
 
-**Also working with:** ESP32 • Sensors • Motors • Robotics • Embedded Systems
+<p>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+### 🔧 Hardware & Electronics
+
+<p>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sensors-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Robotics-FF6B6B?style=for-the-badge"/>
+</p>
+
+### 📚 Currently Exploring
+
+`Artificial Intelligence` • `Machine Learning` • `Computer Vision` • `Embedded Systems` • `Robotics` • `Web Development`
+
 
 
 
@@ -197,7 +213,21 @@ More software, hardware, and experimental projects are currently being developed
 ⚡ Hardware Projects
 🎮 Creative & Experimental Projects
 ```
+## 🚀 GitHub Contributions
 
+<div align="center">
+
+✨ **Building. Learning. Contributing. Growing.** ✨
+
+| 💻 Projects | 🔧 Development | 📚 Learning | 🌟 Contributions |
+|:---:|:---:|:---:|:---:|
+| Web & Software Projects | C / C++ / Python | New Technologies | Open-Source & Personal Work |
+
+<br>
+
+**🔥 Consistent Coding** • **🛠️ Project Building** • **💡 Problem Solving** • **🚀 Continuous Learning**
+
+</div>
 
 # 🎯 Current Goals
 
