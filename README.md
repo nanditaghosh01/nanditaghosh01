@@ -65,9 +65,7 @@ Hi! I'm **Nandita Ghosh**, a Computer Science & Engineering student passionate a
 
 **Also working with:** ESP32 • Sensors • Motors • Robotics • Embedded Systems
 
----
 
-# 🚀 Featured Projects
 
 # 🚀 Featured Projects
 
