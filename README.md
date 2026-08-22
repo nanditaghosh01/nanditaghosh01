@@ -216,7 +216,11 @@ More software, hardware, and experimental projects are currently being developed
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nanditaghosh01&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+ <img
+    src="https://ghchart.xqsit94.in/dark:22D3EE/nanditaghosh01"
+    alt="Nandita Ghosh GitHub Contributions"
+    width="100%"
+  />
 
 <br><br>
 
