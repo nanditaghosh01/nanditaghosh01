@@ -216,8 +216,8 @@ More software, hardware, and experimental projects are currently being developed
 
 <div align="center">
 
-  <img
-  src="https://ghchart.xqsit94.in/dark:3A5ED2/nanditaghosh01"
+<img
+  src="https://raw.githubusercontent.com/nanditaghosh01/nanditaghosh01/output/contributions.svg"
   alt="Nandita Ghosh GitHub Contributions"
   width="100%"
 />
