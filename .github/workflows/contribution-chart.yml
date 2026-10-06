@@ -1,0 +1,25 @@
+name: Update GitHub Contribution Chart
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: pipipi-dev/gcchart@v1
+        with:
+          github_user_name: nanditaghosh01
+          outputs: |
+            contributions.svg?style=clean&theme=dark
