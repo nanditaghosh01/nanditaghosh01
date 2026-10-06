@@ -2,25 +2,20 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B3D,50:174EA6,100:00C6FF&height=220&section=header&text=Nandita%20Ghosh&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20%7C%20Software%20Development%20%7C%20AI%20%7C%20Robotics&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=Nandita%20Ghosh&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20%7C%20Software%20Development%20%7C%20AI%20%7C%20Robotics&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3A8DFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nandita+%F0%9F%91%8B;Computer+Science+%26+Engineering+Student;Aspiring+Software+Engineer+%F0%9F%92%BB;Building+AI+%26+Robotics+Projects+%F0%9F%A4%96;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nandita+%F0%9F%91%8B;Computer+Science+%26+Engineering+Student;Aspiring+Software+Engineer+%F0%9F%92%BB;Building+AI+%26+Robotics+Projects+%F0%9F%A4%96;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br><br>
 
 <a href="https://github.com/nanditaghosh01">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/nandita-ghosh-828a96327/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=nanditaghosh01&label=PROFILE%20VIEWS&color=174EA6&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
 
 </div>
 
@@ -38,14 +33,11 @@ Hi! I'm **Nandita Ghosh**, a Computer Science & Engineering student passionate a
 * ⚡ Building hardware-based projects using microcontrollers
 * 🚀 Always learning, experimenting and creating
 
----
 
 ## 🎓 Education
 
 - 🎓 **Qualification:** B.Tech in Computer Science & Engineering
 - 🏫 **University:** Adamas University
-- 📅 **Duration:** 2024 — 2028
-- 🎓 **Current Year:** 3rd Year
 - 📍 **Location:** Barasat, West Bengal, India
 
 ---
@@ -77,25 +69,25 @@ Hi! I'm **Nandita Ghosh**, a Computer Science & Engineering student passionate a
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=3A8DFF"/>
-<img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00C6FF"/>
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=3A8DFF"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ### 🔧 Hardware & Electronics
 
 <p>
-<img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=3A8DFF"/>
-<img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00C6FF"/>
-<img src="https://img.shields.io/badge/Sensors-0D1117?style=for-the-badge&logoColor=3A8DFF"/>
-<img src="https://img.shields.io/badge/Robotics-0D1117?style=for-the-badge&logoColor=3A8DFF"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sensors-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Robotics-FF6B6B?style=for-the-badge"/>
 </p>
 
 ### 📚 Currently Exploring
 
 `Artificial Intelligence` • `Machine Learning` • `Computer Vision` • `Embedded Systems` • `Robotics` • `Web Development`
 
----
+
 
 # 🚀 Featured Projects
 
@@ -209,7 +201,6 @@ More software, hardware, and experimental projects are currently being developed
 
 </div>
 
----
 
 # 💡 What I Like Building
 
@@ -220,3 +211,85 @@ More software, hardware, and experimental projects are currently being developed
 💻 Software Applications
 ⚡ Hardware Projects
 🎮 Creative & Experimental Projects
+```
+# 📈 GitHub Contributions
+
+<div align="center">
+
+  <img src="https://ghchart.xqsit94.in/dark:3A5ED2/nanditaghosh01" alt="Nandita Ghosh GitHub Contributions" width="100%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nanditaghosh01&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**✨ Every contribution is a step forward.**
+
+</div>
+
+
+# 🎯 Current Goals
+
+```text
+[✓] Learn and build software projects
+[✓] Explore AI & Machine Learning
+[✓] Build robotics and embedded projects
+[✓] Improve programming skills
+[ ] Build more real-world applications
+[ ] Contribute to larger projects
+[ ] Grow as a Software Engineer
+```
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced C++
+* Python
+* Artificial Intelligence
+* Machine Learning
+* Web Development
+* Database Management
+* Embedded Systems
+* Robotics
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/nanditaghosh01">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nandita-ghosh-828a96327/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=nanditaghosh01&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+**Building today. Learning tomorrow. Creating the future. 🚀**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6C63FF&height=120&section=footer"/>
+
+</div>
+
+see this and give me the updated full code
